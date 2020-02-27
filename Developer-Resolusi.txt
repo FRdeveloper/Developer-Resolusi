@@ -1,0 +1,13 @@
+Basic Terminal Usage
+Data structures % Algoritma
+License
+Semantic versioning
+SSH
+HTTP/HTTPS dan APIs
+Designs patterns
+Characters encodings
+................................................
+FRONT END
+................................................
+Internet
+  DNS and how it works
